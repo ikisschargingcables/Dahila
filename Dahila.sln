@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dahila", "Dahila\Dahila.csproj", "{67A078F1-930B-42C9-B53C-0D5E108AAD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A078F1-930B-42C9-B53C-0D5E108AAD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A078F1-930B-42C9-B53C-0D5E108AAD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A078F1-930B-42C9-B53C-0D5E108AAD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A078F1-930B-42C9-B53C-0D5E108AAD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36D8B2F-E8CF-41B0-A9CA-C80C1B81E61F}
+	EndGlobalSection
+EndGlobal
